@@ -1,0 +1,29 @@
+* {
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.react-counter-action > input {
+    padding: 5px 10px;
+    width: 100px;
+    margin: 0 2px;
+    color: white;
+    border: 1px solid white;
+    background: #000000;
+    border-radius: 10px;
+}
