@@ -53,7 +53,7 @@ i recommend the follow set:
     - app.jsx: is the app file
     - name-of-route-or-component.jsx : inside here you have your component or route content.
 
-![Image by the React Structure](https://github.com/colligii/react-static-htmlpage/blob/main/img/react-structure.png?raw=true)
+![Image by the React Structure](https://github.com/colligii/react-static-htmlpage/blob/main/img/react_structure.png?raw=true)
 
 ## Insithe the Files (Example of a sample react Counter):
 
