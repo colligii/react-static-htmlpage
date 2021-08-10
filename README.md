@@ -55,7 +55,7 @@ i recommend the follow set:
 
 ![Image by the React Structure](https://github.com/colligii/react-static-htmlpage/blob/main/img/react_structure.png?raw=true)
 
-## Insithe the Files (Example of a sample react Counter):
+## Inside the Files (Example of a sample react Counter):
 
 - index.jsx :
 ```
